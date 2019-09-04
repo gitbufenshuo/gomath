@@ -1,3 +1,3 @@
-module github.com/gitbufenshuo/go/math
+module github.com/gitbufenshuo/gomath
 
 go 1.13

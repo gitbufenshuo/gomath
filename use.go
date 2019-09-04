@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gitbufenshuo/go/math/base"
+	"github.com/gitbufenshuo/gomath/base"
 )
 
 func main() {
